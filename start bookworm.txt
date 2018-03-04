@@ -1,0 +1,6 @@
+first mongo start
+
+D:\wamp\www\React Projects\bookworm\bookworm-api>npm start
+
+
+D:\wamp\www\React Projects\bookworm\bookworm-react>npm start
